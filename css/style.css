@@ -116,7 +116,7 @@ li:hover  {
     margin-left: 164px;
 }
 
-.second-section {
+#second-section {
     width: 1500px;
     height: 700px;
     background-color: #00c4c4;
@@ -158,7 +158,13 @@ li:hover  {
     margin: 180px 166px 231px 100px;
 }
 
+.scroll {
+    margin-left: 500px;
+}
 
+.scroll {
+    margin: 250px 568px;
+}
     
 
 
